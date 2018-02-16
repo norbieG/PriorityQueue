@@ -1,1 +1,1 @@
-This code implements a priority queue ("PQ") collection using several internal data structures, using pointers, arrays, dynamic memory allocation, linked lists, and heaps. 
+My implementation of priority queue ("PQ") collection. I am using several internal data structures, using pointers, arrays, dynamic memory allocation, linked lists, and heaps. It is my solution to CS106B project "PriorityQueue".
